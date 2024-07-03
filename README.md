@@ -1,3 +1,19 @@
+Para desplegar:
+
+ django-admin startproject myproject # para crear el proyecto
+
+ 
+pip install django
+ 
+pip install djangorestframework
+pip install -r requirements.txt
+python manage.py runserver
+ 
+ 
+ 
+ http://127.0.0.1:8000/
+
+
 # Python Django: Student Management API
 
 ## Read-Only Files:
